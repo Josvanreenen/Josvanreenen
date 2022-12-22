@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Josvanreenen
+#👋 Hi, I’m @Josvanreenen
+
 - 👀 I’m interested in anything that has to do with programming
 - 🌱 I’m currently re-iterating my understanding of front & back end development 
 - 💞️ I’m looking to collaborate on scrum in education
