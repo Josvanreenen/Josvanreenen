@@ -6,6 +6,8 @@
 
 💞️ I’m looking to collaborate on scrum in education
 
+👨‍🏫 At the moment I primarily teach Back End Development courses
+
 <!---
 Josvanreenen/Josvanreenen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
